@@ -3,7 +3,7 @@
 ---
 
 <!-- cf-sync -->
-# Competitive Programming Solutions
+#  Solutions
 
 Synced automatically by SolveBase.
 
