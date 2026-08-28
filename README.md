@@ -7,7 +7,7 @@
 
 Synced automatically by SolveBase.
 
-**Total solved: 5**
+**Total solved: 6**
 
 ## Codeforces
 
@@ -46,11 +46,11 @@ Solutions from the CSES Problem Set, organized by section.
 
 Solutions organized by difficulty rating.
 
-**Solved: 5**
+**Solved: 6**
 
 | Difficulty | Solved |
 | --- | --- |
-| [200](./codechef/200) | 5 |
+| [200](./codechef/200) | 6 |
 
 
 ## GeeksforGeeks
